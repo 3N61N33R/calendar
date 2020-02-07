@@ -22,3 +22,10 @@
 * Run migrations `python manage.py migrate`
 * Start the server `python manage.py runserver`
 
+# Testing the project
+* Create super user account `python manage.py createsuperuser`
+* Start the server `python manage.py runserver`
+* Open admin page `http://127.0.0.1:8000/admin/app/` and login with the    created credentials
+
+
+
